@@ -1,6 +1,6 @@
 # 基于DEM的河网提取流程
 ## 缺乏辅助信息下的河网提取划分
->曾红伟等，Arc Hydro Tools 及多源 DEM 提取河网与精度分析——以洮儿河流域为例
+>曾红伟等，ArcHydro Tools 及多源 DEM 提取河网与精度分析——以洮儿河流域为例
 
 1. 填洼
 2. 流向 Flow Direction
