@@ -23,7 +23,7 @@ TauDEM有命令行（command line）和ArcGIS工具箱两种操作方式，本�
 
 ## 1. 基本格网分析 Basic Grid Analysis
 #### 1.1 下载 [Cub River 实验数据]( http://hydrology.usu.edu/taudem/)，解压后加入`cubdem`到ArcMap中。
-注意：实验数据存放**路径中不能出现中文**，否则后续操作中会报错：
+注意：实验数据存放**路径中不能出现中文**，否则后续操作中会报错：<br/>
 ![](assets/TauDEM使用-ArcGIS工具箱-4e0b9.png)
 
 #### 1.2 填洼操作( Pit Remove )
