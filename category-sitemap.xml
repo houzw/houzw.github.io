@@ -91,20 +91,6 @@
     </url>
 
     <url>
-        <loc>houzw.github.io.git/categories/GIS/</loc>
-        <lastmod>2017-04-19T16:16:43.414Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>houzw.github.io.git/categories/GIS/GRASS-GIS/</loc>
-        <lastmod>2017-04-19T16:16:43.414Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>houzw.github.io.git/categories/%E5%BC%80%E5%8F%91-WebService/</loc>
         <lastmod>2017-05-27T15:30:54.937Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -128,6 +114,20 @@
     <url>
         <loc>houzw.github.io.git/categories/%E5%BC%80%E5%8F%91-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
         <lastmod>2017-09-01T15:12:39.511Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>houzw.github.io.git/categories/GIS/</loc>
+        <lastmod>2018-03-14T15:41:31.731Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>houzw.github.io.git/categories/GIS/GRASS-GIS/</loc>
+        <lastmod>2018-03-14T15:41:31.731Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
